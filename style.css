@@ -1,11 +1,18 @@
-hover-box:hover {
+.hover-box:hover {
   background-color: #b3c3f1;
    margin: 30px;
   padding: 25px;
-  border: 3px solid skyblue;
+  border: 3px solid black;
   text-align: center;
   width: 150px;
   height: 150px;
-
-
 }
+
+.card {
+  background-color:#7e7cc4
+  margin: 30px;
+  padding:20px;
+  border: 3px solid black;
+  text-align: center;
+  width: 150px;
+  height: 150px;

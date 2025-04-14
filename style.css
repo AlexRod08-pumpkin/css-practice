@@ -4,8 +4,8 @@
   padding: 25px;
   border: 3px solid black;
   text-align: center;
-  width: 150px;
-  height: 150px;
+  width: 220px;
+  height: 100px;
 }
 
 .card {
@@ -14,5 +14,16 @@
   padding:20px;
   border: 3px solid black;
   text-align: center;
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 100px;
+}
+
+#highlight{
+    background-color: #6B5B95;
+margin: 30px;
+  padding: 25px;
+  border: 3px solid black;
+  text-align: center;
+  width:220px;
+  height:100px;
+}

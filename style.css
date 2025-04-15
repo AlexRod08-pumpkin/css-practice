@@ -1,4 +1,4 @@
-.hover-box:hover {
+.hover-box{
   background-color: #b3c3f1;
    margin: 30px;
   padding: 25px;
@@ -26,4 +26,8 @@ margin: 30px;
   text-align: center;
   width:220px;
   height:100px;
+}
+
+.hover-box:hover {
+  background-color: #F7CAC9;
 }

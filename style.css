@@ -1,4 +1,4 @@
-.hover-box{
+.hover-box:hover{
   background-color: #b3c3f1;
    margin: 30px;
   padding: 25px;
@@ -9,9 +9,6 @@
 }
 
 .card {
-   position: absolute;
-  top: 100px;
-  left: 100px;
   background-color:#7e7cc4
   margin: 30px;
   padding:20px;
@@ -31,6 +28,8 @@ margin: 30px;
   height:100px;
 }
 
-.hover-box:hover {
-  background-color: #F7CAC9;
+#highlight{
+  position:  relative;
+  top: 100px;
+  left: 100px;
 }

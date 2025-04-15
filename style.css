@@ -9,6 +9,9 @@
 }
 
 .card {
+   position: absolute;
+  top: 100px;
+  left: 100px;
   background-color:#7e7cc4
   margin: 30px;
   padding:20px;
